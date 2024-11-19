@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:22-alpine
 
 #RUN useradd --user-group --create-home --shell /bin/false app
 
